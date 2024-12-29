@@ -1,0 +1,56 @@
+What are the main topics covered in CSE 227: Graduate Computer Security?
+How is CSE 227 different from an introductory or tutorial course in computer security?
+What percentage of the final grade in CSE 227 is allocated to the research project?
+What is the expected outcome of the research project in CSE 227?
+How are paper responses graded in CSE 227?
+What is the weight of the project presentation in the overall grade for CSE 227?
+What are the goals of the research project in CSE 227?
+What type of security research areas are explored in CSE 227?
+Are there exams or quizzes in CSE 227?
+How are students in CSE 227 expected to prepare for class discussions?
+What skills does CSE 227 aim to develop for students?
+What resources are available to students in CSE 227 for paper responses and presentations?
+Is attendance mandatory for all class sessions in CSE 227?
+Can students in CSE 227 propose their own research project topics?
+Are undergraduate students allowed to take CSE 227?
+
+How are lectures structured in CSE 227?
+What is the general format for class discussions on papers in CSE 227?
+How many papers are discussed in each class session of CSE 227?
+What are the roles of the instructor and TA during class discussions in CSE 227?
+Will there be guest lectures or external speakers in CSE 227?
+How often are lecture topics updated in CSE 227?
+
+What is the format of the final research project paper in CSE 227?
+How are research project groups selected in CSE 227?
+Are there required project milestones or checkpoints in CSE 227?
+How will project proposals be evaluated in CSE 227?
+What kind of feedback will be provided on research project proposals in CSE 227?
+Can students in CSE 227 receive help on their research projects outside of class?
+What criteria will be used to evaluate research projects in CSE 227?
+Are there restrictions on project topics for CSE 227?
+How can students in CSE 227 ensure their project idea is well-scoped for a quarter?
+
+What are the goals of the paper responses in CSE 227?
+How are paper responses submitted in CSE 227?
+How does the HotCRP system work for submitting responses in CSE 227?
+How much time should students in CSE 227 spend preparing for each paper discussion?
+What should students focus on in their paper responses for CSE 227?
+Are there guidelines for leading a paper discussion in CSE 227?
+How are students selected to lead paper discussions in CSE 227?
+What are the expectations for PhD vs. MS students in leading discussions in CSE 227?
+How will the instructor evaluate paper presentations in CSE 227?
+Can students in CSE 227 collaborate on paper responses?
+
+What should students in CSE 227 do if they are sick on a class day?
+Are there options for remote attendance in CSE 227 if a student cannot attend in person?
+How will pandemic policies impact class discussions or project work in CSE 227?
+
+What are the academic integrity expectations in CSE 227?
+How does UCSD handle violations of the integrity policy in CSE 227?
+Are there specific integrity guidelines for collaborative work on projects in CSE 227?
+What should students do if they are unsure about a potential integrity issue in CSE 227?
+
+What institutions inspired the course structure for CSE 227?
+What office hours are available for support with course material in CSE 227?
+Are there resources for learning how to critically evaluate security research papers in CSE 227?
